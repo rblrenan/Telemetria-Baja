@@ -142,7 +142,7 @@ while True:
                 ax2.plot(x,y2,'b')
                 ax3.plot(x,y3,'b')
                 ax4.plot(x,y4,'b')
-                ax4.hold
+                '''ax4.hold'''
                 ax4.plot(x,y5,'r')
                 ax4.legend(['Dianteira','Traseira'],loc=2)
                 if i>=10:
